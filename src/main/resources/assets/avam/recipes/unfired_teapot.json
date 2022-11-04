@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " P ",
+        "PWP",
+        "PPP"
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "avam:porcelain_ball"
+        },
+        "W":
+        {
+            "item": "minecraft:water_bucket"
+        }
+    },
+
+    "result":
+    {
+        "item": "avam:unfired_teapot",
+        "count": 1
+    }
+}

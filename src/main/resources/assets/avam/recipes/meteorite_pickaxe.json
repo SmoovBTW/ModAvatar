@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "avam:meteorite_ingot"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+
+    "result":
+    {
+        "item": "avam:meteorite_pickaxe",
+        "count": 1
+    }
+}

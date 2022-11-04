@@ -1,0 +1,31 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "avam:glass_shard"
+    },
+ 
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    }
+    
+    ],
+ 
+    "result": 
+    {
+        "item": "avam:porcelain_ball",
+        "count": 4
+    }
+}

@@ -1,0 +1,25 @@
+//Items
+item.teapot.name=Teapot
+item.cabbage.name=Cabbage
+item.firebending_scroll.name=Firebending Scroll
+item.glass_shard.name=Glass Shard
+item.meteorite_rock.name=Meteorite Rock
+item.porcelain_ball.name=Porcelain Ball
+item.unfired_teapot.name=Unfired Teapot
+item.meteorite_ingot.name=Meteorite Ingot
+
+//Blocks
+tile.meteorite_block.name=Meteorite
+
+//Tools
+item.meteorite_sword.name=Meteorite Sword
+item.meteorite_pickaxe.name=Meteorite Pickaxe
+item.meteorite_axe.name=Meteorite Axe
+item.meteorite_shovel.name=Meteorite Shovel
+item.meteorite_hoe.name=Meteorite Hoe
+
+//Armor
+item.meteorite_helmet.name=Meteorite Helmet
+item.meteorite_chestplate.name=Meteorite Chestplate
+item.meteorite_leggings.name=Meteorite Leggings
+item.meteorite_boots.name=Meteorite Boots

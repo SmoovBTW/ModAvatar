@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        "M M",
+        "   "
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "avam:meteorite_ingot"
+        }
+    },
+
+    "result":
+    {
+        "item": "avam:meteorite_helmet",
+        "count": 1
+    }
+}
